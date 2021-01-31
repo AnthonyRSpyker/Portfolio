@@ -1,0 +1,95 @@
+/* All pages */
+
+
+.header{
+    position: fixed;
+    top: 0;
+    width:100%;
+    margin-bottom: 0px;
+    background-color: honeydew;
+    z-index:1;
+}
+
+.social{
+   
+    position: relative;
+    
+}
+
+body {
+    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg") ;
+    background-color: #bdb5b5 ;
+   }
+   
+/* footer{ 
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(67, 65, 65);
+    border-top: 5px rgb(38, 131, 123) solid;
+
+} */
+
+/* index.html style */
+
+
+article{
+    background-color: white;
+    margin-top: 100px;
+    
+}
+
+
+
+.aboutme{
+    margin-left: 35px;
+    font-size: 35px;
+    color: rgb(38, 131, 123);
+    border-bottom: solid;
+    
+}
+
+.imagewrap{
+    margin-left: 35px;
+    padding:0px 40px 0px 0px;
+    width: 300px;
+    float:left;
+}
+
+.text{
+    margin-left: 35px;
+}
+
+
+
+/* contact.html style */
+.contact-box{
+    margin-top: 150px;
+}
+
+form{
+    color: rgb(38, 131, 123);
+}
+
+
+/* for portfolio.html */
+h1{
+    border-bottom:solid;
+    color:black;
+}
+
+.down{
+    margin-top: 50px;
+}
+
+.music{
+    background-color: rgb(159, 143, 143);
+}
+
+
+
+
+
+
+
